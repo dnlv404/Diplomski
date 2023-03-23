@@ -13,10 +13,10 @@ U  ovom  radu  biće analizirano  tržište nekretnina, odnosno kratak istorijat
 primena programskih jezika u ekonometrijskoj analizi, odnosno prednosti Python programskog jezika. Na kraju rada, biće  analizirano tržište  nekretnina  primenom regresione  analize  u  Python  programskom  jeziku.  Regresiona  analiza  obuhvata  veliki 
 broj modela kao što su linearna regresija, polinomska regresija, Ridge  regresija,  Lasso regresija itd. Od tradicionalnih regresionih modela biće primenjena linearna regresija, a 
 pored nje biće primenjeni i napredniji oblici regresije, odnosno Decision Tree, Random Forest, Extra Trees i Extreme Gradient Boosting algoritmi za regresionu analizu. Nakon 
-analize biće izvršena komparacija moći predviĎanja ispitivanih modela. 
+analize biće izvršena komparacija moći predvidjanja ispitivanih modela. 
 ## Ciljevi rada
 Obzirom  da  se  za  statističke  analize  u  većini  slučajeva  koriste  statistički 
-softverski paketi jer imaju korisnički interfejs i jednostavniji su za upotrebu u poreĎenju 
+softverski paketi jer imaju korisnički interfejs i jednostavniji su za upotrebu u poredjenju 
 sa  programskim  jezicima,  ciljevi  ovog  rada  su  prikazivanje  prednosti  i  mogućnosti 
-Python  programskog jezika pri obradi i analizi podataka, kao i poreĎenje performansi, 
+Python  programskog jezika pri obradi i analizi podataka, kao i poredjenje performansi, 
 odnosno moći predviĎanja različitih regresionih modela.
