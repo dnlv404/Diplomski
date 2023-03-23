@@ -19,4 +19,4 @@ Obzirom  da  se  za  statističke  analize  u  većini  slučajeva  koriste  sta
 softverski paketi jer imaju korisnički interfejs i jednostavniji su za upotrebu u poredjenju 
 sa  programskim  jezicima,  ciljevi  ovog  rada  su  prikazivanje  prednosti  i  mogućnosti 
 Python  programskog jezika pri obradi i analizi podataka, kao i poredjenje performansi, 
-odnosno moći predviĎanja različitih regresionih modela.
+odnosno moći predvidjanja različitih regresionih modela.
